@@ -33,35 +33,39 @@ The SOAP note concludes with the Plan section, indicating next steps of care. Th
 **History of Present Illness:** Jane is a new patient in our office today. She reports that she was diagnosed with diabetes about 2 years ago by her former PCP and had to make a considerable amount of dietary and lifestyle changes to get her blood sugar under control. A1c at time of diagnosis was 7.2. Prior to diagnosis, she consumed a lot of junk food (chips, juice, candies, soda) and lived a very sedentary lifestyle, averaging about three days of walking every couple of weeks. Currently managing diabetes on metformin 500 milligrams BID and tolerating without side effects. She sees her eye doctor once yearly for eye exam. Her seasonal allergy symptoms include scratchy throat, runny nose, and sneezing. Symptoms are not debilitating and do not interfere with her daily activities. She notes that her allergies are worst in the springtime.
 
 - PMH: Seasonal allergies, Type 2 Diabetes. Current medications include Claritin 10 milligrams QD for allergies and metformin 500 milligrams BID for diabetes as above. Tolerating all medications well and without side effects.
+  
 - FHx: Type 2 Diabetes (Mother, Sister, Maternal Grandmother), pancreatic cancer (Paternal /Grandfather; died age 72), and seasonal allergies (Father).
+  
 - SocHx: Jane works as a high school biology teacher and has been teaching for 30 years. Job is sometimes stressful due to the amount of students she has, but she enjoys getting to teach students about scientific topics. She is a widow; husband died in 2022. Has two adult daughters who live out of state, one of whom has a child on the way. Jane is excited about becoming a grandmother. She exercises 4 times a week doing weight training and cardio. Diet includes fruits, vegetables, healthy carbs and limited red meat with lots of water. Does not regularly consume sweets, but will occasionally have a small amount of ice cream every couple of months.
 
 ### Objective ###
-#### **Vitals** ####
-Blood Pressure: 121/73, taken on left arm using adult cuff.
-Heart Rate: 69 BPM
-O2 Saturation: 100%
+#### **Vitals:** ####
+- Blood Pressure: 121/73, taken on left arm using adult cuff.
+- Heart Rate: 69 BPM
+- O2 Saturation: 100%
 
 **Physical Exam:**
 
-General: Well-appearing, no acute distress.
-HEENT: 
-   Head: Normocephalic, atraumatic, no visible or palpable masses
-   Eyes: Visual acuity intact, conjunctiva clear, PERRL
-   Ears: Normal tympanic membranes, hearing intact, EACs clear
-   Nose: Normal septum and turbinates, normal mucosa, no external lesions
-   Throat: Supple, without lesions, bruits, or adenopathy, thyroid non-enlarged and non-tender
-Heart: Regular rate and rhythm. No murmur or gallop.
-Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
-Abdomen: Soft, non-tender, non-distended. Normal bowel sounds.
-Genitourinary: **Exam deferred today.**
-Extremities: **+1 pitting edema on bilateral lower legs.** No varicose veins. Peripheral pulses intact. Normal monofilament exam.
-Psychiatric: Alert and oriented x3. Normal mood and affect. Normal thought content.
+- General: Well-appearing, no acute distress.
+- HEENT: 
+   - Head: Normocephalic, atraumatic, no visible or palpable masses
+   - Eyes: Visual acuity intact, conjunctiva clear, PERRL
+   - Ears: Normal tympanic membranes, hearing intact, EACs clear
+   - Nose: Normal septum and turbinates, normal mucosa, no external lesions
+   - Throat: Supple, without lesions, bruits, or adenopathy, thyroid non-enlarged and non-tender
+- Heart: Regular rate and rhythm. No murmur or gallop.
+- Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, non-distended. Normal bowel sounds.
+- Genitourinary: **Exam deferred today.**
+- Extremities: **+1 pitting edema on bilateral lower legs.** No varicose veins. Peripheral pulses intact. Normal monofilament exam.
+- Psychiatric: Alert and oriented x3. Normal mood and affect. Normal thought content.
 
 **Assessment:**
+
 Jane Doe is a 55 year old woman presenting to establish care. Her history is notable for Type 2 Diabetes and seasonal allergies. No new concerns during today's visit. She is up to date on all immunizations and her annual diabetic eye exam. Jane is amenable to going to the lab this afternoon to recheck A1c. Her seasonal allergies are mild and symptoms include runny nose, sneezing and slight scratchy throat. Symptoms do not interfere with daily activities and resolve with Claritin. 
 
 **Plan:** 
+
 Type 2 Diabetes: 
    - Continue metformin 500 milligrams BID.
    - Orders placed for Hemoglobin A1c to be done at the lab to obtain a more recent value for our records.
