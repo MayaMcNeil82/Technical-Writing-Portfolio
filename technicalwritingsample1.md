@@ -42,7 +42,8 @@ Blood Pressure: 121/73, taken on left arm using adult cuff.
 Heart Rate: 69 BPM
 O2 Saturation: 100%
 
-**Physical Exam**
+**Physical Exam:**
+
 General: Well-appearing, no acute distress.
 HEENT: 
    Head: Normocephalic, atraumatic, no visible or palpable masses
@@ -57,10 +58,10 @@ Genitourinary: **Exam deferred today.**
 Extremities: **+1 pitting edema on bilateral lower legs.** No varicose veins. Peripheral pulses intact. Normal monofilament exam.
 Psychiatric: Alert and oriented x3. Normal mood and affect. Normal thought content.
 
-**Assessment**
+**Assessment:**
 Jane Doe is a 55 year old woman presenting to establish care. Her history is notable for Type 2 Diabetes and seasonal allergies. No new concerns during today's visit. She is up to date on all immunizations and her annual diabetic eye exam. Jane is amenable to going to the lab this afternoon to recheck A1c. Her seasonal allergies are mild and symptoms include runny nose, sneezing and slight scratchy throat. Symptoms do not interfere with daily activities and resolve with Claritin. 
 
-**Plan** 
+**Plan:** 
 Type 2 Diabetes: 
    - Continue metformin 500 milligrams BID.
    - Orders placed for Hemoglobin A1c to be done at the lab to obtain a more recent value for our records.
