@@ -1,10 +1,10 @@
-# Technical Writing Portfolio
+# Technical Writing Portfolio #
 
-Welcome to my portfolio! Here is where I feature my projects and where you can watch me develop on my technical writing journey. 
+Welcome to my portfolio! Here is where I feature my projects and where you can watch me continue to develop my technical writing skills. 
 
-## Projects
+## Projects ##
 
-### Project 1
+### Project 1 ###
 **Description**: 
 
 [View Project]()
