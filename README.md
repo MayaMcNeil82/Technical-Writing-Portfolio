@@ -1,8 +1,8 @@
-# Technical Writing Portfolio #
+# Technical Writing Portfolio 
 
 Welcome to my portfolio! Here is where I feature my projects and where you can watch me continue to develop my technical writing skills. 
 
-## Samples ##
+## Writing Samples: ##
 
 ### Sample 1 ###
 In this technical writing sample, I detail how to create medical notes following a specific style guide that is common amongst professionals in the healthcare industry. I also include an example of completed documentation following this style guide. 
