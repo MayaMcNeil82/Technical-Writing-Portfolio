@@ -14,6 +14,11 @@ Here is where I wrote a step-by-step recipe on how to bake one of my favorite de
 
 [View Project](https://github.com/MayaMcNeil82/Technical-Writing-Portfolio/blob/main/Sample%202.md)
 
+### Sample 3 ###
+This is a guide instructing users how to establish a connection to the device of their choice using a Bluetooth speaker.
+
+[View Project](https://github.com/MayaMcNeil82/Technical-Writing-Portfolio/blob/main/Sample%203.md)
+
 ## About Me ##
 
 Hello! I'm Maya McNeil. I created this portfolio to showcase my technical writing samples and to track my development in this field. It is a goal of mine to be able to create a wide range of technical documentation that can easily be read and understood by audiences of many types, from end-users to developers. I am a career changer, and decided to pivot out of healthcare to leverage the skills I gained in my two years as a Medical Documentation Specialist--including editing, proofreading, and utilizing new softwares-- in a new, much more technical environment. 
